@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "6a62041977c556e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e727f67b594bfc8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e4acd1b5c677b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1bb80e8a6189889",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dd8a5e3ac00cfee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15582ef53d8742e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4a1d2041e95f64d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3d8bba297ec390c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d100dc7f3cb5b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b61258227d5f46e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3c07d8b2c6d4334",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b2268edceb1b6a38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "78cf2dd001348901",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7e5dcf2f2aa66fa5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "15582ef53d8742e9",
+  "lastOpenFiles": [
+    "README.md",
+    "Unity面试题/CSharp相关/🚧 值类型和引用类型的区别.md",
+    "Unity面试题/CSharp相关",
+    "算法题目/数组/两数相加.md",
+    "算法题目/未命名",
+    "算法题目/逻辑模拟/两数之和.md",
+    "算法题目/逻辑模拟",
+    "Unity面试题/Mono编程",
+    "Unity面试题/Shader相关",
+    "计算机面试题/Lua语言",
+    "计算机面试题/CPP语言",
+    "计算机面试题/CSharp语言",
+    "计算机面试题/操作系统",
+    "计算机面试题/计算机组成"
+  ]
+}
