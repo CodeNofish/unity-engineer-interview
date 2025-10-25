@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "791e853b7920fdfe",
+        "id": "f7d5c71bfe8d87f8",
         "type": "tabs",
         "children": [
           {
-            "id": "1ba129afbd8f6db8",
+            "id": "755fb6cadbd40798",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "15582ef53d8742e9",
+  "active": "755fb6cadbd40798",
   "lastOpenFiles": [
+    "算法题目/动态规划/入门问题/杨辉三角.md",
+    "算法题目/动态规划/接雨水.md",
     "算法题目/动态规划/入门问题/爬楼梯.md",
     "算法题目/动态规划/入门问题",
     "算法题目/回溯法",
