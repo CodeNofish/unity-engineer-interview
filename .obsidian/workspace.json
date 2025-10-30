@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法题目/图/课程表.md",
+                "file": "算法题目/并查集/UnionFind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "课程表"
+              "title": "UnionFind"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "5d100dc7f3cb5b07",
@@ -170,6 +169,8 @@
   "active": "480d7031bc450ed0",
   "lastOpenFiles": [
     "算法题目/图/课程表.md",
+    "算法题目/并查集/UnionFind.md",
+    "算法题目/并查集",
     "算法题目/动态规划/入门问题/买卖股票的最佳时机.md",
     "算法题目/图/无向连通图 遍历算法.md",
     "算法题目/图/克隆图.md",
@@ -212,8 +213,6 @@
     "算法题目/未分类 1",
     "算法题目/排序",
     "Unity面试题/CSharp相关/拆箱和装箱.md",
-    "Unity面试题/CSharp相关/✅️值类型和引用类型的区别.md",
-    "Unity面试题/CSharp相关/✅️in out ref 参数修饰符​ 的用法.md",
-    "算法题目/滑动窗口"
+    "Unity面试题/CSharp相关/✅️值类型和引用类型的区别.md"
   ]
 }
